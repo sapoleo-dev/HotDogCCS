@@ -1,23 +1,30 @@
-# Hot Dog CCS - Complete Console Stand Management System
+# Curso de Algortimos y Programación
+## Sección 2
+## Profesor: Mario Alfonso Quintero Labrador
+## Periodo: 2526-1
 
-A comprehensive, object-oriented Python application for managing a hot dog stand.
+# Proyecto: Hot Dog CCS
 
-## Features
+### Integrantes del grupo: 
+Santiago Poleo 
+Octavio Ye 
 
-- **Ingredient Management**: Add, view, and delete ingredients across 5 categories
-- **Inventory Tracking**: Monitor and update stock levels
-- **Menu Management**: Create and manage hot dog recipes with validation
-- **Sales Simulation**: Simulate daily sales with random customers
-- **Statistics & Analytics**: View trends and patterns (requires matplotlib)
+## Hot Dog CCS
 
-## Installation
+- **Manegador de ingredientes**: Añadir, ver, y borrar ingredientes en 5 categorias
+- **Trackeo de inventario**: Monitora, y actualiza el nivel del stock
+- **Manegador del menu**: Crea y manega recetas de perro calientes con validacion
+- **Simulacion de ventas**: Simula ventas diarias con clientes random
+- **Analiticas y stadisticas**: Ve patrones de ventas (requiere matplotlib)
 
-1. Clone or download this repository
-2. Install dependencies:
+### Instalacion
+
+1. Clona o descarga este repositorio
+2. Instalar dependencias:
 requests>=2.28.0
 matplotlib>=3.5.0
 
-## Usage
+### Uso
 
-Run the application:
+Corre la aplicacion:
 python main.py
