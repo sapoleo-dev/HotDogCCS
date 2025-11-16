@@ -278,9 +278,9 @@ class MenuManager:
             print("2. Ver disponibilidad de perro caliente")
             print("3. Añadir perro caliente nuevo")
             print("4. Borrar perro caliente")
-            print("5. Back to main menu")
+            print("5. Volver")
             
-            choice = get_valid_integer("\nEnter your choice: ", 1, 5)
+            choice = get_valid_integer("\nElije: ", 1, 5)
             
             if choice == 1:
                 self.view_menu()

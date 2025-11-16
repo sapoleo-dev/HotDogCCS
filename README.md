@@ -6,7 +6,7 @@
 ## Proyecto: Hot Dog CCS
 
 ### Integrantes del grupo: 
-Santiago Poleo 
+Santiago Poleo   
 Octavio Ye 
 
 ## Hot Dog CCS
